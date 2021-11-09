@@ -72,6 +72,7 @@ print()
 
 #Decorator writing practice
 
+
 def my_decorator(arg):
     print(arg)
 
