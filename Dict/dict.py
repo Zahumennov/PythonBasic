@@ -36,3 +36,4 @@ print(my_dict_six.get(8))
 print()
 
 print(my_dict_five.items())
+print(dir())
